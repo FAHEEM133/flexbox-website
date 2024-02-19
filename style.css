@@ -1,0 +1,80 @@
+body{
+    margin: 0;
+}
+
+/* CSS part of 'container-one' begins from here */
+
+.container-one-color, .footer{
+    background-color: #1F2937;
+}
+
+.container-one{
+    width: 800px;
+    margin: 0 auto;
+}
+
+.logo{
+font-size: 24px;
+color: #f9faf8;
+text-decoration: none;
+font-weight: bold;
+display: flex;
+/* align-items: center; */
+margin-top: 16px;
+}
+
+.main-text{
+font-size: 48px;
+font-weight: bolder;
+color: #f9faf8;
+}
+
+li a, .sub-text p{
+    font-size: 18px;
+    color: #e5e7eb;
+    text-decoration: none;
+}
+
+ul{
+    display: flex;
+    gap: 16px;
+    align-items: center;
+    margin-left: auto;
+}
+
+li{
+    list-style: none;
+}
+
+.signup-button-one{
+    background-color: #3882f6;
+    color: #f9faf8;
+    padding: 8px 16px;
+    font-weight: bold;
+    border-radius: 8px;
+    border: 0;
+}
+
+.header{
+    display: flex;
+}
+
+
+.header-content{
+    display: flex;
+    padding: 60px 0px;
+}
+
+.img-placeholder{
+    height: 150;
+    width: 600;
+    padding: 30px 60px;
+    background-color: #75777c;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+}
+
+/* CSS part of 'container-two' begins from here */
+
