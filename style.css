@@ -184,3 +184,10 @@ li{
 .four-bold-text{
     font-weight: bolder;
 }
+
+.footer{
+    color: #f9faf8;
+    text-align: center;
+    padding: 25px;
+    font-weight: lighter;
+}
