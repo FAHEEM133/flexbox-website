@@ -140,3 +140,47 @@ li{
     margin: 0;
     font-weight: bold;
 }
+
+/* CSS part of container-four begins from here */
+
+.container-four{
+    padding: 70px;
+}
+
+.group-four{
+    background-color: #3882f6;
+    border-radius: 10px;
+    width: 700px;
+    margin: 0 auto;
+    padding: 10px 50px;
+}
+
+.group-four-text{
+    height: 100px;
+    width: 600px;
+    margin : 0 auto;
+    display: flex;
+    align-items: center;
+}
+
+.signup-button-four{
+    margin-left: auto;
+}
+
+.signup-button-four button{
+    padding: 6px 25px;
+    background-color: #3882f6;
+    border: 1px solid #f9faf8;
+    color: #f9faf8;
+    font-weight: bolder;
+    border-radius: 8px;
+}
+
+.group-four-text div p{
+    margin: 0;
+    color: #f9faf8;
+}
+
+.four-bold-text{
+    font-weight: bolder;
+}
