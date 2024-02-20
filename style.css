@@ -113,3 +113,30 @@ li{
     text-align: center;
     margin: 8px 16px;
 }
+
+/* CSS part of 'container-three' begins from here */
+
+.container-three-color{
+    background-color: #e5e7eb;
+    padding: 60px;
+}
+
+.container-three{
+    width: 700px;
+    margin: 0 auto;
+}
+
+.quote{
+    font-size: 36px;
+    color: #1F2937;
+    font-style: italic;
+    font-weight: lighter;
+    margin: 0;
+}
+
+.author{
+    color: #1F2937;
+    text-align: right;
+    margin: 0;
+    font-weight: bold;
+}
