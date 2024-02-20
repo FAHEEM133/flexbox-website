@@ -74,7 +74,42 @@ li{
     align-items: center;
     justify-content: center;
     flex-shrink: 0;
+    border-radius: 8px;
+
 }
 
 /* CSS part of 'container-two' begins from here */
 
+.container-two{
+    width: 650px;
+    margin: 0 auto;
+}
+
+.text-two{
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: bolder;
+    text-align: center;
+    margin: 40px 0px;
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    border: 3px solid #3882f6;
+}
+
+.box-group-container{
+    display: flex;
+    margin-bottom: 70px;
+}
+
+.box{
+    margin: 0 auto;
+}
+
+.box-group p{
+    text-align: center;
+    margin: 8px 16px;
+}
