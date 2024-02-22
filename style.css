@@ -19,7 +19,6 @@ color: #f9faf8;
 text-decoration: none;
 font-weight: bold;
 display: flex;
-/* align-items: center; */
 margin-top: 16px;
 }
 
@@ -38,7 +37,6 @@ li a, .sub-text p{
 ul{
     display: flex;
     gap: 16px;
-    align-items: center;
     margin-left: auto;
 }
 
@@ -66,13 +64,10 @@ li{
 }
 
 .img-placeholder{
-    height: 150;
-    width: 600;
     padding: 30px 60px;
     background-color: #75777c;
     display: flex;
     align-items: center;
-    justify-content: center;
     flex-shrink: 0;
     border-radius: 8px;
 
